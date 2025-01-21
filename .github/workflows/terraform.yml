@@ -1,4 +1,4 @@
-name: "Staging Workflow for Infrastructure"
+name: "Staging Workflow IAC"
 on:
   push:
     branches:
